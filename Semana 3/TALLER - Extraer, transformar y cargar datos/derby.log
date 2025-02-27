@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Mon Feb 24 08:24:19 COT 2025:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0195-3821-437e-0000085d3020 
+Wed Feb 26 19:09:18 COT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0195-44bc-7a35-00000c9290b8 
 on database directory C:\Users\Edwin\Documents\GitHub\FORK-Analisis-de-datos-masivos\Semana 3\TALLER - Extraer, transformar y cargar datos\metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
 Loaded from file:/C:/spark-3.5.4/jars/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
